@@ -1,12 +1,12 @@
 #Giao thức SSL/TLS
 
-#Giới thiệu về giao thức SSL/TLS
+#A. Giới thiệu về giao thức SSL/TLS
 
 ##1. SSL là gì?
 
 ##2. Lịch sử phát triển của giao thức SSL & TLS
 
-#Cấu trúc và cách hoạt động của SSL
+#B. Cấu trúc và cách hoạt động của SSL
 
 ##1. Cấu trúc của giao thức SSL
 
